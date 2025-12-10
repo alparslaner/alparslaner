@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m Alparslan Eravşar — a fourth-year Computer Engineering student. I work on projects to improve myself and share them here. Every day, I try to learn new things and develop my skills further.
+Hi, I’m Alparslan Eravşar. I’m a Computer Engineering graduate and currently a Software Engineer at Huawei.
+Beyond my professional work, I am dedicated to exploring new technologies, honing my skills, and sharing my open-source projects here.
 
 
 ## 🌐 Socials:
